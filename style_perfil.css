@@ -1,0 +1,124 @@
+.conteudo{
+	margin: 0 auto 0 auto;
+	width:50%;
+	height:75%;
+	margin-top:2%;
+}
+
+.nome{
+	color: #008700;
+	font-family: Arial;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+.ola{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.legend{
+	margin: 0 auto 0 auto;
+	font-size: 20px;
+	letter-spacing: 2px;
+	font-family: Arial;
+}
+
+a{
+	text-decoration: none;
+	margin:6px;
+	font-size: 20px;
+	cursor: pointer;
+	font-family: Arial;
+}
+
+a:hover{
+	color: #ff0000;
+	cursor: pointer;
+}
+
+.field{
+	width: 70%;
+	height:33%;
+	margin: 0 auto 0 auto;
+}
+
+.field_cliente{
+	width: 50%;
+	height:50%;
+	margin: 0 auto 0 auto;
+}
+
+.field_exc_cliente{
+	width: 50%;
+	height:18%;
+	margin: 0 auto 0 auto;
+}
+
+.field_con{
+	width: 50%;
+	height:100%;
+	margin: 0 auto 0 auto;
+}
+
+.field_prod{
+	width: 50%;
+	height:35%;
+	margin: 0 auto 0 auto;
+}
+
+.form{
+	margin: 0 auto 0 auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+label{
+	margin-left: 10%;
+}
+
+.input{
+	float: right;
+	margin-right:15%;
+}
+
+.botao{
+	margin: 0 auto 0 auto;
+	width: 17.5%;
+	height:30px;
+	border: 1px solid #0000ff;
+	margin-left:5%;
+	margin-top:13%;
+	background: none;
+	color: #0000ff;
+	border-radius: 3px;
+	font-size: 14px;
+	font-family: Arial;
+	cursor: pointer;
+	transition: 350ms;
+}
+
+.botao:hover{
+	color: #ffffff;
+	background-color: #0000ff;
+	letter-spacing: 1px;
+}
+
+.button_cli{
+	float:right;
+}
+
+.voltar_perfil{
+	float: right;
+	margin-top: 8%;
+}
+
+.voltar_cliente{
+	float: right;
+	margin-right: 5%;
+}
+
+.deslogar{
+	margin-left: 14%;
+}
+
